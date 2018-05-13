@@ -11,7 +11,7 @@ Note: npm is usually installed with node as package.
 > npm install gulpjs/gulp-cli#4.0 -g
 
 
-#####How to start project: 
+##### How to start project: 
 
 * Copy this repository
 
