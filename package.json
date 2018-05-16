@@ -1,0 +1,33 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "This is Edu Project for creating landing page. ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2",
+    "run-sequence": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marynapanina/itvdn-landing.git"
+  },
+  "author": "Maryna Panina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marynapanina/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/marynapanina/itvdn-landing#readme"
+}

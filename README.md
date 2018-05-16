@@ -17,6 +17,6 @@ Note: npm is usually installed with node as package.
 
 > git clone https://github.com/marynapanina/itvdn-landing.git
 
-* Run command npm install that will install all packages and dependencies mentioned in package.json
+* Run command npm install that will install all packages and d npm ependencies mentioned in package.json
 
 > npm install 
